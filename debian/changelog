@@ -1,0 +1,38 @@
+ccd2iso (0.3-4) unstable; urgency=low
+
+  * Switch to compat level 7.
+  * Switch to source format 3.0 (quilt).
+  * Switch to debhelper 9.
+  * Removed deprecated XS-DM-Upload-Allowed.
+  * Bump Standards-Version.
+  * Enable relro hardening.
+
+ -- Alexander Chernyakhovsky <achernya@mit.edu>  Mon, 27 Jan 2014 00:02:27 -0500
+
+ccd2iso (0.3-3) unstable; urgency=low
+
+  * Adding the necessary tag to debian/control to allow upload by me
+    as a Debian Maintainer.
+
+ -- Asheesh Laroia <asheesh@asheesh.org>  Sat, 15 Dec 2007 02:04:02 -0800
+
+ccd2iso (0.3-2) unstable; urgency=low
+
+  * Fix for lintian problem debian-rules-ignores-maasheesh@asheesh.org
+  * Remove useless TODO file from docs.
+  * Added an 'rm' to the clean: rule (Closes: #442518)
+
+ -- Asheesh Laroia <asheesh@asheesh.org>  Fri, 09 Nov 2007 09:57:57 +0900
+
+ccd2iso (0.3-1) unstable; urgency=low
+
+  * New upstream release
+  * Updated man page to refer to ccd2iso version 0.3
+
+ -- Asheesh Laroia <asheesh@asheesh.org>  Sun, 25 Feb 2007 15:35:13 -0500
+
+ccd2iso (0.2-1) unstable; urgency=low
+
+  * Initial release Closes: #373150
+
+ -- Asheesh Laroia <asheesh@asheesh.org>  Mon, 12 Jun 2006 22:35:10 -0700

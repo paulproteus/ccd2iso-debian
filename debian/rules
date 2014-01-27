@@ -1,0 +1,7 @@
+#!/usr/bin/make -f
+# -*- makefile -*-
+
+export DEB_BUILD_HARDENING=1
+
+%:
+	dh $@ --with autoreconf

@@ -1,0 +1,15 @@
+Source: ccd2iso
+Section: otherosfs
+Priority: optional
+Maintainer: Asheesh Laroia <asheesh@asheesh.org>
+Build-Depends: debhelper (>= 9), autotools-dev, dh-autoreconf, hardening-wrapper
+Standards-Version: 3.9.5
+
+Package: ccd2iso
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Converter from CloneCD disc image format to standard ISO
+ This converts CD backup files created using the non-free CloneCD program to a
+ format understood by most Free Software CD writing programs.
+ .
+  Homepage: http://sourceforge.net/projects/ccd2iso/
