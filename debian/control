@@ -2,7 +2,7 @@ Source: ccd2iso
 Section: otherosfs
 Priority: optional
 Maintainer: Asheesh Laroia <asheesh@asheesh.org>
-Build-Depends: debhelper (>= 9), autotools-dev, dh-autoreconf, hardening-wrapper
+Build-Depends: debhelper (>= 9), autotools-dev, dh-autoreconf
 Standards-Version: 3.9.5
 
 Package: ccd2iso
