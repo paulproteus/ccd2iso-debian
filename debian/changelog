@@ -1,3 +1,9 @@
+ccd2iso (0.3-5) sid; urgency=medium
+
+  * Add patch to stop using hardening-wrapper, thanks Moritz Mühlenhoff
+
+ -- Asheesh Laroia <asheesh@asheesh.org>  Sat, 24 Sep 2016 23:31:21 -0400
+
 ccd2iso (0.3-4) unstable; urgency=low
 
   * Switch to compat level 7.
