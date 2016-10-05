@@ -1,6 +1,7 @@
 ccd2iso (0.3-7) sid; urgency=medium
 
   * Remove unnecessary Homepage: line in long description
+  * Bump standards version
 
  -- Asheesh Laroia <asheesh@asheesh.org>  Tue, 04 Oct 2016 22:27:21 -0700
 
