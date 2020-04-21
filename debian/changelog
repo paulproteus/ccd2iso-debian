@@ -1,3 +1,9 @@
+ccd2iso (0.3-8) UNRELEASED; urgency=medium
+
+  * Bump debhelper from deprecated 9 to 10.
+
+ -- Debian Janitor <janitor@jelmer.uk>  Tue, 21 Apr 2020 09:19:46 +0000
+
 ccd2iso (0.3-7) sid; urgency=medium
 
   * Remove unnecessary Homepage: line in long description
