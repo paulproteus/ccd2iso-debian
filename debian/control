@@ -3,7 +3,7 @@ Section: otherosfs
 Priority: optional
 Homepage: https://sourceforge.net/projects/ccd2iso/
 Maintainer: Asheesh Laroia <asheesh@asheesh.org>
-Build-Depends: debhelper (>= 9), autotools-dev, dh-autoreconf
+Build-Depends: debhelper, autotools-dev, dh-autoreconf
 Standards-Version: 3.9.6
 Vcs-Git: https://github.com/paulproteus/ccd2iso-debian.git
 Vcs-Browser: https://github.com/paulproteus/ccd2iso-debian
